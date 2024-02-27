@@ -2,3 +2,4 @@
 test
 double
 spanish
+french
